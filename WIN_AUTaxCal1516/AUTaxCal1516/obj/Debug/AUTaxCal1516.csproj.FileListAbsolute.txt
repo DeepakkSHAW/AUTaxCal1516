@@ -1,0 +1,14 @@
+C:\DeepakTAL\POC.Net\AUTaxCal1516\AUTaxCal1516\bin\Debug\AUTaxCal1516.exe.config
+C:\DeepakTAL\POC.Net\AUTaxCal1516\AUTaxCal1516\bin\Debug\AUTaxCal1516.exe
+C:\DeepakTAL\POC.Net\AUTaxCal1516\AUTaxCal1516\bin\Debug\AUTaxCal1516.pdb
+C:\DeepakTAL\POC.Net\AUTaxCal1516\AUTaxCal1516\obj\Debug\AUTaxCal1516.csprojResolveAssemblyReference.cache
+C:\DeepakTAL\POC.Net\AUTaxCal1516\AUTaxCal1516\obj\Debug\AUTaxCal1516.Main.resources
+C:\DeepakTAL\POC.Net\AUTaxCal1516\AUTaxCal1516\obj\Debug\AUTaxCal1516.Properties.Resources.resources
+C:\DeepakTAL\POC.Net\AUTaxCal1516\AUTaxCal1516\obj\Debug\AUTaxCal1516.csproj.GenerateResource.Cache
+C:\DeepakTAL\POC.Net\AUTaxCal1516\AUTaxCal1516\obj\Debug\AUTaxCal1516.exe
+C:\DeepakTAL\POC.Net\AUTaxCal1516\AUTaxCal1516\obj\Debug\AUTaxCal1516.pdb
+C:\DeepakTAL\POC.Net\AUTaxCal1516\AUTaxCal1516\bin\Debug\AUTaxCal1516.exe.manifest
+C:\DeepakTAL\POC.Net\AUTaxCal1516\AUTaxCal1516\bin\Debug\AUTaxCal1516.application
+C:\DeepakTAL\POC.Net\AUTaxCal1516\AUTaxCal1516\obj\Debug\AUTaxCal1516.TrustInfo.xml
+C:\DeepakTAL\POC.Net\AUTaxCal1516\AUTaxCal1516\obj\Debug\AUTaxCal1516.exe.manifest
+C:\DeepakTAL\POC.Net\AUTaxCal1516\AUTaxCal1516\obj\Debug\AUTaxCal1516.application
